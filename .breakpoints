@@ -1,0 +1,18 @@
+{
+  "files": {
+    "login/views.py": [
+      {
+        "id": "77b988f4-c4c6-4be6-951c-c1ecce03431a",
+        "line": 25,
+        "version": 769,
+        "index": 572
+      },
+      {
+        "id": "b574cbcd-2572-40f4-9370-ead91a5f0f09",
+        "line": 26,
+        "version": 769,
+        "index": 573
+      }
+    ]
+  }
+}
